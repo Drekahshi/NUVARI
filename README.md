@@ -1,6 +1,7 @@
 
 VIDEO 1 : https://notebooklm.google.com/notebook/62b91bc7-5a2d-4d82-a836-a0c21775e8dd
-VIDEO 2 : https://notebooklm.google.com/notebook/e5d29147-eea1-4865-8201-b923cfb723b2/artifact/d0e0144e-b75e-41ad-83fd-44acc1d7ef81?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
+
+##VIDEO 2 : https://notebooklm.google.com/notebook/e5d29147-eea1-4865-8201-b923cfb723b2/artifact/d0e0144e-b75e-41ad-83fd-44acc1d7ef81?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
 # 🌍 NUVARI
 ## Web3 Financial Ownership for Everyday Africans
 
